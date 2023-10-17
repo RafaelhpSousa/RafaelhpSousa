@@ -1,18 +1,11 @@
-### Hi! I'm Rafael Sousa
+### Hi! I'm Rafael Sousa 👋🏻
 
 - Web developer student 🧑🏻‍💻
 - I want to work with full stack 💻
-##
 
-<div>
-<a href="https://github.com/RafaelhpSousa/github-readme-stats">
-  <img height=150em align="center" src="https://github-readme-stats.vercel.app/api?username=RafaelhpSousa&theme=dark&show_icons=true" />
-</a>
-<a href="https://github.com/RafaelhpSousa/convoychat">
-  <img height=150em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaelhpSousa&layout=compact&langs_count=8&card_width=100&theme=dark" />
-</a>
-</div>
+![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelhpsousa&show_icons=true&theme=dark&count_ivate=true)
 
+## technologies I use
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
