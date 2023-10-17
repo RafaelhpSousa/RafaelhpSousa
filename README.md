@@ -5,10 +5,10 @@
 ##
 <div>
 <a href="https://github.com/RafaelhpSousa/github-readme-stats">
-  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=RafaelhpSousa&theme=dark&show_icons=true" />
+  <img height=150em align="center" src="https://github-readme-stats.vercel.app/api?username=RafaelhpSousa&theme=dark&show_icons=true" />
 </a>
 <a href="https://github.com/RafaelhpSousa/convoychat">
-  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaelhpSousa&layout=compact&langs_count=8&card_width=100&theme=dark" />
+  <img height=150em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaelhpSousa&layout=compact&langs_count=8&card_width=100&theme=dark" />
 </a>
 </div>
 
